@@ -25,7 +25,7 @@ a self-taught and passionate Frontend developer from China.
 - 💻 Focusing on CV & LLM recently
 - 🔨 Building Agent for the rest of my life
 
-![Onelevenvy's github view count](https://komarev.com/ghpvc/?username=Onelevenvy) ![stars](https://img.shields.io/github/stars/Onelevenvy0412?style=social) ![followers](https://img.shields.io/github/followers/Onelevenvy?color=%23ff4a4a&logoColor=%23fff&style=plastic)
+![Onelevenvy's github view count](https://komarev.com/ghpvc/?username=Onelevenvy) ![stars](https://img.shields.io/github/stars/Onelevenvy?style=social) ![followers](https://img.shields.io/github/followers/Onelevenvy?color=%23ff4a4a&logoColor=%23fff&style=plastic)
 
 
   ![](https://raw.githubusercontent.com/Onelevenvy/github-stats/master/generated/overview.svg#gh-dark-mode-only)
