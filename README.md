@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-a self-taught and passionate Frontend developer from China.
+
 
 ### About me
 
