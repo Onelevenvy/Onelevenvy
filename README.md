@@ -36,11 +36,3 @@ Here are some ideas to get you started:
 
 
 
-<div style="display: flex">
-  
-  <div>
-    <h3>Github Streaks </h3>
-    <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Onelevenvy&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Onelevenvy" style="height: 200px" /></p>
-  </div>
-
-</div>
