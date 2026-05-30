@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### About me
 
-- ❤️ Writing Python and TypeScript
+- ❤️ Writing Python,TypeScript and Rust
 - 🏫 Learning LLM
 - 💻 Focusing on CV & LLM recently
 - 🔨 Building Agent for the rest of my life
