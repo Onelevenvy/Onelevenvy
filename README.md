@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 - 🏫 Learning LLM
 - 💻 Focusing on CV & LLM recently
 - 🔨 Building Agent for the rest of my life
-
+  
+[![GitHub Roast 评分徽章](https://githubroast.dev/api/badge/Onelevenvy)](https://githubroast.dev/u/Onelevenvy)
 ![Onelevenvy's github view count](https://komarev.com/ghpvc/?username=Onelevenvy) ![stars](https://img.shields.io/github/stars/Onelevenvy?style=social) ![followers](https://img.shields.io/github/followers/Onelevenvy?color=%23ff4a4a&logoColor=%23fff&style=plastic)
 
 
