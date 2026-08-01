@@ -9,7 +9,7 @@
 
 [![GitHub Roast 评分卡](https://ghfind.com/api/card/mini/onelevenvy?variant=strip)](https://ghfind.com/u/onelevenvy?ref=badge)
 
-[![GitHub Roast 评分徽章](https://githubroast.dev/api/badge/Onelevenvy)](https://githubroast.dev/u/Onelevenvy)
+[![GitHub Roast 评分徽章](https://ghfind.com/api/badge/onelevenvy)](https://ghfind.com/u/onelevenvy?ref=badge)
 ![Onelevenvy's github view count](https://komarev.com/ghpvc/?username=Onelevenvy)
 ![stars](https://img.shields.io/github/stars/Onelevenvy?style=social)
 ![followers](https://img.shields.io/github/followers/Onelevenvy?color=%23ff4a4a&logoColor=%23fff&style=plastic)
